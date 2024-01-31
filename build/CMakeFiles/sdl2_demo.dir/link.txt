@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/sdl2_demo.dir/src/main.cpp.o CMakeFiles/sdl2_demo.dir/src/BaseObject.cpp.o CMakeFiles/sdl2_demo.dir/src/game_map.cpp.o CMakeFiles/sdl2_demo.dir/src/MainObject.cpp.o -o sdl2_demo  -lSDL2main -lSDL2 -lGL -lSDL2_image -lSDL2_mixer -lSDL2_ttf 

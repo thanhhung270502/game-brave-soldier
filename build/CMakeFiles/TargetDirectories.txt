@@ -1,0 +1,5 @@
+/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/build/CMakeFiles/sdl2_demo.dir
+/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/build/CMakeFiles/package.dir
+/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/build/CMakeFiles/package_source.dir
+/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/build/CMakeFiles/edit_cache.dir
+/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/build/CMakeFiles/rebuild_cache.dir

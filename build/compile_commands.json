@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/sdl2_demo.dir/src/main.cpp.o -c /home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/src/main.cpp",
+  "file": "/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/src/main.cpp"
+},
+{
+  "directory": "/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/sdl2_demo.dir/src/BaseObject.cpp.o -c /home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/src/BaseObject.cpp",
+  "file": "/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/src/BaseObject.cpp"
+},
+{
+  "directory": "/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/sdl2_demo.dir/src/game_map.cpp.o -c /home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/src/game_map.cpp",
+  "file": "/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/src/game_map.cpp"
+},
+{
+  "directory": "/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/sdl2_demo.dir/src/MainObject.cpp.o -c /home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/src/MainObject.cpp",
+  "file": "/home/kane/Desktop/My-computer/Documents-University/Nam-4/LTGame/Assignment/Assignment2/sdl2_demo/src/MainObject.cpp"
+}
+]
